@@ -1,0 +1,8 @@
+{
+  "name": "thetechpost-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oscardavidrm/thetechpost-API.git",
+  "author": "Oscar Rodríguez <oscardavidrodriguezm@gmail.com>",
+  "license": "MIT"
+}
